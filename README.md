@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vin
 - 👀 I’m interested in social media and digital marketing
 - 🌱 I’m currently learning about data science
-- 💞️ I’m looking to collaborate on (hit me first, I like join new challenge)
+- 💞️ I’m looking to collaborate on (hit me first, I like to join new challenge)
 - 📫 How to reach me is by twitter DM on user name @haloooviiin
 
 <!---
